@@ -22,13 +22,6 @@ h4{
     font-family: 'Kaleko 205 Round W01 Book';
     color: white;
 }
-
-body {
-    height: 100%;
-    width: 100%;
-    background-image: url("img/background.png");
-}
-
 body {
     overflow: hidden; /* Hide scrollbars */
   }
@@ -44,7 +37,20 @@ button {
     border: none;
 }
 
-body { 
-    width: 100%; 
-    height: 100%; 
-  } 
+#discord-button{
+    width: 10%;
+    height: 5%;
+    font-family: 'Kaleko 205 Round W01 Book';
+    background-color: #7289DA;
+    color: white;
+    font-size: 22px;
+    border-radius: 14px;
+    border: none;
+    float: right;
+    margin-right: 20px;
+    }
+body {
+    height: 100%;
+    width: 100%;
+    background-image: url("img/background.png");
+  }
