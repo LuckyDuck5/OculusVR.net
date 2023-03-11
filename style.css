@@ -5,7 +5,21 @@
 
 h1{
     font-family: 'Kaleko 205 Round W01 Book';
-    font-size: medium;
+    color: white;
+}
+
+h2{
+    font-family: 'Kaleko 205 Round W01 Book';
+    color: white;
+}
+
+h3{
+    font-family: 'Kaleko 205 Round W01 Book';
+    color: white;
+}
+
+h4{
+    font-family: 'Kaleko 205 Round W01 Book';
     color: white;
 }
 
@@ -18,3 +32,14 @@ body {
 body {
     overflow: hidden; /* Hide scrollbars */
   }
+
+button {
+    width: 30%;
+    height: 15%;
+    font-family: 'Kaleko 205 Round W01 Book';
+    background-color: #02b757;
+    color: white;
+    font-size: 30px;
+    border-radius: 14px;
+    border: none;
+}
